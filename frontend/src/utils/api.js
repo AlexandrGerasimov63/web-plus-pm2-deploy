@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('https://api.aeg.nomoredomainsmonster.ru/');
+  const api = new Api('https://api.aeg.nomoredomainsmonster.ru');
 
   export default api;
