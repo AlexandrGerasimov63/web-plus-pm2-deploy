@@ -142,3 +142,7 @@ class Api {
   const api = new Api('https://api.aeg.nomoredomainsmonster.ru');
 
   export default api;
+
+
+  // https://aeg.nomoredomainsmonster.ru/
+  // https://api.aeg.nomoredomainsmonster.ru/
